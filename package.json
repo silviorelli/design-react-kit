@@ -56,7 +56,6 @@
 		"babel-preset-env": "^1.6.1",
 		"babel-preset-react": "^6.24.1",
 		"babel-runtime": "^6.26.0",
-		"bootstrap-italia": "^0.8.2",
 		"classnames": "^2.2.5",
 		"eslint": "^4.19.1",
 		"eslint-config-prettier": "^2.9.0",
@@ -80,7 +79,9 @@
 		"rollup-plugin-node-resolve": "^3.3.0",
 		"storybook-readme": "^3.3.0"
 	},
-	"dependencies": {},
+	"dependencies": {
+		"bootstrap-italia": "^0.9.4"
+	},
 	"peerDependencies": {
 		"react": "^16.0.0",
 		"react-dom": "^16.0.0"
