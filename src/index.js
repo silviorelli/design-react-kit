@@ -125,3 +125,4 @@ export { default as Select } from './components/Select/Select';
 export { default as Skiplink } from './components/Skiplink/Skiplink';
 export { default as SkiplinkItem } from './components/Skiplink/SkiplinkItem';
 export { default as Toggle } from './components/Toggle/Toggle';
+export { default as TestButton } from './components/TestButton/TestButton';
